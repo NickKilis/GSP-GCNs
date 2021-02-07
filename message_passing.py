@@ -46,7 +46,7 @@ A) The feature vector (Graph Signal) supported by a Graph structure:
     
     The final result of this operation:
         - a new feature vector (with the same shape as the original)
-        - but now each value represents the sum of the connected neighbotrhoods of each node.
+        - but now each value represents the sum of the connected neighborhoods of each node.
     
     This is a simple form of message passing:
         - message              : feature vectors,
